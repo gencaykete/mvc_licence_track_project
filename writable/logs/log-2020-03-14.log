@@ -1,0 +1,520 @@
+CRITICAL - 2020-03-14 09:50:29 --> Undefined property: App\Controllers\Auth::$userModel
+#0 C:\wamp64\www\burakwork\app\Controllers\Auth.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\b...', 19, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Auth->login_process()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 10:51:15 --> Invalid file: integration.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('integration.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 10:51:25 --> Undefined variable: products
+#0 C:\wamp64\www\burakwork\app\Views\integration.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 30, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 10:51:53 --> Undefined variable: products
+#0 C:\wamp64\www\burakwork\app\Views\integration.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 23, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 10:51:54 --> Undefined variable: products
+#0 C:\wamp64\www\burakwork\app\Views\integration.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 23, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 10:52:06 --> Undefined variable: products
+#0 C:\wamp64\www\burakwork\app\Views\integration.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 23, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 10:52:07 --> Undefined variable: products
+#0 C:\wamp64\www\burakwork\app\Views\integration.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 23, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('integration', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(543): view('integration')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->integration()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 11:20:34 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(659): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 659, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->delete_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 11:21:36 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Views\header.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 112, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('header', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(535): view('header', Array)
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->admins()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 11:34:29 --> Allowed fields must be specified for model: App\Models\UserModel
+#0 C:\wamp64\www\burakwork\system\Model.php(1218): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\User...')
+#1 C:\wamp64\www\burakwork\system\Model.php(702): CodeIgniter\Model->doProtectFields(Array)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(656): CodeIgniter\Model->insert(Array)
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->ajax_add_admin()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 11:35:58 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(698): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 698, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->delete_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 11:36:02 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(698): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 698, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->delete_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 11:36:06 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(698): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 698, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->delete_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 12:42:17 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:32 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:32 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:33 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:33 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:34 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:34 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:34 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:34 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:36 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:37 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:37 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:37 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:38 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:38 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:38 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:42:38 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 12:43:44 --> syntax error, unexpected '='
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 13:11:22 --> Undefined variable: request
+#0 C:\wamp64\www\burakwork\app\Config\Events.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 56, Array)
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 C:\wamp64\www\burakwork\system\Events\Events.php(188): call_user_func(Object(Closure))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(396): CodeIgniter\Events\Events::trigger('post_controller...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 13:11:23 --> Undefined variable: request
+#0 C:\wamp64\www\burakwork\app\Config\Events.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 56, Array)
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 C:\wamp64\www\burakwork\system\Events\Events.php(188): call_user_func(Object(Closure))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(396): CodeIgniter\Events\Events::trigger('post_controller...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 13:28:28 --> Undefined variable: timezones
+#0 C:\wamp64\www\burakwork\app\Views\general_settings.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 75, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('general_setting...', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(132): view('general_setting...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->general_settings()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 13:30:06 --> Invalid file: php_encoder.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('php_encoder.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(157): view('php_encoder')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 14:03:12 --> gzdeflate(): compression level (10) must be within -1..9
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'gzdeflate(): co...', 'C:\\wamp64\\www\\b...', 22, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(22): gzdeflate('ZWNobyAibWVyaGF...', 10)
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:07:35 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('\x96\xEB')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:08:34 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('\xE3\xBE<\xEB~,\xE2\x9E\xE7\xDF\xDE\xBA\xE3\xBE\xB5...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:09:37 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('\xE3\xBE<\xEB~,\xE2\x9E\xE7\xDF\xDE\xBA\xE3\xBE\xB5...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:09:38 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('\xE3\xBE<\xEB~,\xE2\x9E\xE7\xDF\xDE\xBA\xE3\xBE\xB5...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:09:40 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('\xE3\xBE<\xEB~,\xE2\x9E\xE7\xDF\xDE\xBA\xE3\xBE\xB5...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:11:46 --> syntax error, unexpected ';'
+#0 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 14:11:50 --> syntax error, unexpected ';'
+#0 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 14:13:09 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('5n574r6s6279416...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:13:14 --> hex2bin(): Input string must be hexadecimal string
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Inpu...', 'C:\\wamp64\\www\\b...', 20, Array)
+#1 C:\wamp64\www\burakwork\app\Views\php_encoder.php(20): hex2bin('5n574r6s6279416...')
+#2 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#3 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#4 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#7 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-03-14 14:15:26 --> syntax error, unexpected ';'
+#0 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('php_encoder', Array, true)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(166): view('php_encoder')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->php_encoder_post()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 16:33:57 --> Invalid file: warning1.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning1.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning1', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Warning.php(6): view('warning1')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Warning->index()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warning))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 16:34:01 --> Invalid file: warning_1.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning_1.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning_1', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Warning.php(6): view('warning_1')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Warning->index()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warning))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 16:34:02 --> Invalid file: warning_1.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning_1.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning_1', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Warning.php(6): view('warning_1')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Warning->index()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warning))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-14 16:49:17 --> constant(): Couldn't find constant warning
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'constant(): Cou...', 'C:\\wamp64\\www\\b...', 197, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\PanelAjax.php(197): constant('warning')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\PanelAjax->update_settings()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PanelAjax))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 16:49:36 --> constant(): Couldn't find constant warning
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'constant(): Cou...', 'C:\\wamp64\\www\\b...', 197, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\PanelAjax.php(197): constant('warning')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\PanelAjax->update_settings()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PanelAjax))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-14 16:58:43 --> Trying to get property 'email' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\PanelAjax.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 64, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\PanelAjax->update_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PanelAjax))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-14 17:08:11 --> syntax error, unexpected '321321' (T_LNUMBER), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 17:08:25 --> syntax error, unexpected 'for' (T_FOR)
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-14 17:08:28 --> syntax error, unexpected 'for' (T_FOR)
+#0 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\wamp64\\www\\b...')
+#1 C:\wamp64\www\burakwork\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

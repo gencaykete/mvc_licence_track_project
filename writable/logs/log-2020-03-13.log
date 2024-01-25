@@ -1,0 +1,257 @@
+CRITICAL - 2020-03-13 17:30:36 --> Use of undefined constant netgsm_username - assumed 'netgsm_username' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\burakwork\app\Views\general_settings.php(274): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\b...', 274, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('general_setting...', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(526): view('general_setting...')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->general_settings()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 20:43:39 --> Undefined index: host
+#0 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\b...', 11, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\LicenseCheck->check_license()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LicenseCheck))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 20:43:40 --> Undefined index: host
+#0 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\b...', 11, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\LicenseCheck->check_license()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LicenseCheck))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:07:19 --> Undefined index: host
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\b...', 42, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(121): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 21:07:20 --> Undefined index: host
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\b...', 42, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(121): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-13 21:23:16 --> A non-numeric value encountered
+#0 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\wamp64\\www\\b...', 12, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(58): App\Controllers\LicenseCheck->licenseInvalidNotifications('http://1y1outub...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\LicenseCheck->check_license()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LicenseCheck))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:40:43 --> file_get_contents(https://api.netgsm.com.tr/sms/send/get/?usercode=088089811&amp;password=123456&amp;gsmno=05555555555&amp;message=Yaziliminiz http://byoutube.com adresinde lisanssiz olarak kullanildi. Detaylar icin: http://burakwork/warnings&amp;msgheader=BASLIK): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 31, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(31): file_get_contents('https://api.net...')
+#2 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(78): App\Controllers\LicenseCheck->licenseInvalidNotifications('http://byoutube...')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\LicenseCheck->check_license()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LicenseCheck))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 21:43:03 --> Call to undefined method CodeIgniter\Email\Email::get_debugger_messages()
+#0 C:\wamp64\www\burakwork\app\Controllers\LicenseCheck.php(79): App\Controllers\LicenseCheck->licenseInvalidNotifications('http://b11youtu...')
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\LicenseCheck->check_license()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LicenseCheck))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:45:47 --> Call to undefined function App\Controllers\json_parse()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 21:45:48 --> Call to undefined function App\Controllers\json_parse()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 21:45:49 --> Call to undefined function App\Controllers\json_parse()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 21:46:11 --> Undefined property: stdClass::$success
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\b...', 34, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:46:12 --> Undefined property: stdClass::$success
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\b...', 34, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:46:12 --> Undefined property: stdClass::$success
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\b...', 34, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:46:21 --> Cannot use object of type stdClass as array
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 21:46:21 --> Cannot use object of type stdClass as array
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-13 21:46:36 --> Undefined property: stdClass::$success
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\b...', 35, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-03-13 21:50:40 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:50:40 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:50:41 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:51:53 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:52:04 --> Invalid file: warning.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(547): view('warning')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->warning_page()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 21:52:05 --> Invalid file: warning.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(547): view('warning')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->warning_page()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 21:52:05 --> Invalid file: warning.php
+#0 C:\wamp64\www\burakwork\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('warning.php')
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('warning', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(547): view('warning')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->warning_page()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-13 21:52:29 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:52:29 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:52:30 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:54:21 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:54:21 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:54:57 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:55:37 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 21:55:45 --> file_get_contents(http:/burakwork/page/warning): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\app\Controllers\Panel.php(37): file_get_contents('http:/burakwork...')
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-13 22:31:38 --> Trying to get property 'id' of non-object
+#0 C:\wamp64\www\burakwork\app\Controllers\Panel.php(654): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\wamp64\\www\\b...', 654, Array)
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->delete_admin()
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

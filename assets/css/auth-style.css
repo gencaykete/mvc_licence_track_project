@@ -1,0 +1,7 @@
+body {
+    height: 100vh;
+}
+.swal2-loading {
+    margin: 0!important;
+    width: auto!important;
+}

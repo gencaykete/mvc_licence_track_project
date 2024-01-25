@@ -1,0 +1,120 @@
+CRITICAL - 2020-03-09 19:09:18 --> Undefined variable: licenses
+#0 C:\wamp64\www\burakwork\app\Views\licenses.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 31, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('licenses', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('licenses')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:09:58 --> Undefined variable: licenses
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 31, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:10:50 --> Undefined variable: licenses
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 32, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:11:27 --> Undefined variable: licenses
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 26, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:15:50 --> Undefined variable: license
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:15:51 --> Undefined variable: license
+#0 C:\wamp64\www\burakwork\app\Views\license_checks.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\b...', 37, Array)
+#1 C:\wamp64\www\burakwork\system\View\View.php(236): include('C:\\wamp64\\www\\b...')
+#2 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#3 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#6 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-09 19:31:09 --> Call to a member function where() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:10 --> Call to a member function where() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:24 --> Call to a member function where() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:25 --> Call to a member function where() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:45 --> Call to a member function select() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:45 --> Call to a member function select() on null
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-09 19:31:58 --> Cannot use object of type mysqli as array
+#0 C:\wamp64\www\burakwork\system\View\View.php(236): include()
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-09 19:31:59 --> Cannot use object of type mysqli as array
+#0 C:\wamp64\www\burakwork\system\View\View.php(236): include()
+#1 C:\wamp64\www\burakwork\system\Common.php(1071): CodeIgniter\View\View->render('license_checks', Array, true)
+#2 C:\wamp64\www\burakwork\app\Controllers\Panel.php(107): view('license_checks')
+#3 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#4 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#5 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-09 19:32:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getResultsArray()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->license_checks()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

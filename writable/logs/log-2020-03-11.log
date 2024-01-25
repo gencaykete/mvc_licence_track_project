@@ -1,0 +1,96 @@
+CRITICAL - 2020-03-11 20:27:47 --> Call to undefined function App\Controllers\library()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:27:47 --> Call to undefined function App\Controllers\library()
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:29:12 --> Class 'App\Controllers\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:29:13 --> Class 'App\Controllers\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:29:13 --> Class 'App\Controllers\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:29:13 --> Class 'App\Controllers\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:29:13 --> Class 'App\Controllers\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:32 --> Class 'App\Controllers\App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:33 --> Class 'App\Controllers\App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:33 --> Class 'App\Controllers\App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:33 --> Class 'App\Controllers\App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:42 --> Class 'App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:42 --> Class 'App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:43 --> Class 'App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:30:43 --> Class 'App\Libraries\Lisansimo' not found
+#0 C:\wamp64\www\burakwork\system\CodeIgniter.php(910): App\Controllers\Panel->dashboard()
+#1 C:\wamp64\www\burakwork\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#2 C:\wamp64\www\burakwork\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\burakwork\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-11 20:33:29 --> App\Controllers\Panel::dashboard(): Failed opening required 'C:\wamp64\www\burakwork\app\1' (include_path='.;C:\php\pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-03-11 20:33:29 --> App\Controllers\Panel::dashboard(): Failed opening required 'C:\wamp64\www\burakwork\app\1' (include_path='.;C:\php\pear')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
